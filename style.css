@@ -64,11 +64,6 @@ body{
     font-weight: 600;;
 }
 
-.main h4 span{
-    color: #fff;
-    text-decoration: underline;
-}
-
 .main p.title{
     font-size: 44px;
     font-weight: 680;
